@@ -18,7 +18,7 @@ collections:
 
 
 # Site Settings
-locale                   : "gr"
+locale                   : "en"
 title                    : "Department of Informatics - Ionian University"
 title_separator          : "-"
 name                     : "Department of Informatics - Ionian University"
